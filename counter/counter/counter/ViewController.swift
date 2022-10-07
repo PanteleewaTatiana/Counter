@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     private var number:Int = 0
-    private var labelText : String = "Значение счётчика: "
+    private let labelText : String = "Значение счётчика: "
     
     @IBAction func buttonDidTap() {
         number += 1
@@ -25,7 +25,6 @@ class ViewController: UIViewController {
     }
    
 }
-// Не могу найти где в GitHub писать комментарий к заданию, поэтому пишу здесь - почему-то он прибавляет только до 1, выдаёт какую-то ошибку. Но я не пойму, что не так
 
     
 
