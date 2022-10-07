@@ -30,8 +30,6 @@
                                 <buttonConfiguration key="configuration" style="filled" title="+ 1"/>
                                 <connections>
                                     <action selector="buttonDidTap" destination="BYZ-38-t0r" eventType="touchUpInside" id="NpY-Q0-cJ8"/>
-                                    <action selector="buttonDidTap" destination="BYZ-38-t0r" eventType="touchDown" id="aKX-IZ-SXQ"/>
-                                    <action selector="buttonDidTap:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vHm-ej-JqB"/>
                                 </connections>
                             </button>
                         </subviews>
